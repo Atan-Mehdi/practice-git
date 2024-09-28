@@ -1,5 +1,1 @@
 this is file1 created for learning git
-<<<<<<< HEAD
-=======
-content by student branch
->>>>>>> student
